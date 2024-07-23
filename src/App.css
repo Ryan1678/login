@@ -1,3 +1,4 @@
+
 * {
     margin: 0;
     padding: 0;
@@ -16,3 +17,44 @@
     background-size: cover;
     background-position: center;
 }
+.cla {
+width: 450px;
+background-color: rgba(255, 255, 255, 0.30);
+backdrop-filter: blur(10px);
+border: 2px sold rgba(255, 255, 255, 0.30);
+padding: 40px;
+border-radius: 10px;
+}
+
+.a, .b {
+    position: relative;
+    width: 100%;
+    height: 50px;
+    margin: 30px auto;
+    background-color: #bb1386;
+    border: none;
+    outline: none;
+    border-radius: 40px;
+    box-shadow: 0 0 10px rgba (0, 0, 0, 0.1);
+    cursor: pointer;
+    font-size: 16px;
+    font-weight: 600;
+    text-shadow: none;
+    color: #fd99e2;
+    border: 2px solid rgba(255, 255, 255, 0.30);
+    border-radius: 40px;
+}
+
+.cla h1{
+    text-align: center;
+    font-size: 30px;
+    color: #ffffff;
+}
+
+.cla h3{
+    text-align: center;
+    font-size: 30px;
+    color: #ffffff;
+ 
+}
+
